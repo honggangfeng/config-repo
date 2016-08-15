@@ -17,9 +17,9 @@ security:
 # and token store
 spring:
   datasource:
-    url: jdbc:mysql://192.168.99.100:3306/auth
-    username: root
-    password: password
+    url: jdbc:mysql://10.65.216.64:3340/vfinopenuser
+    username: vfinopenuser
+    password: vfinopenuser
     driver-class: com.mysql.jdbc.Driver
   
   jpa:

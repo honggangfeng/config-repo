@@ -1,2 +1,2 @@
-# config-repo
-Configuration files for Config Server
+# sample-config
+Spring Cloud External Configuration Repository
